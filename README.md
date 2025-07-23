@@ -30,7 +30,7 @@ This repository contains a detailed analysis of Facebook Ad Campaigns created to
 
 ## Contents
 
-- [`Team 6A Week 3 Superhero U Facebook Ad Campaigns (1).pdf`](./Team%206A%20Week%203%20Superhero%20U%20Facebook%20Ad%20Campaigns.pdf): Full analysis report with visual breakdown of campaign performance.
+- [Team 6A Campaign Report](Team%206A%20Week%203%20Superhero%20U%20Facebook%20Ad%20Campaigns%20%281%29.pdf): Full analysis report with visual breakdown of campaign performance.
 
 ## Purpose
 
